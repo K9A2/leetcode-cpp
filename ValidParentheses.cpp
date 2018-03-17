@@ -4,6 +4,9 @@
 
 using namespace std;
 
+/**
+ * Solution for problem "20	Valid Parentheses"
+ */
 class Solution {
    public:
     bool isValid_if(string s) {
