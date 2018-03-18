@@ -10,7 +10,8 @@
             "args": [
                 "-g",
                 "-Wall",
-                "${fileBasenameNoExtension}.cpp"
+                "${fileBasenameNoExtension}.cpp",
+                "-std=c++11"
             ]
         }
     ]
