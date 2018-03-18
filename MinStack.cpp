@@ -3,6 +3,9 @@
 
 using namespace std;
 
+/**
+ * Solution for problem "155. MinStac"
+ */
 class MinStack {
  public:
   int min;
