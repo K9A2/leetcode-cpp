@@ -9,6 +9,11 @@
         "array": "cpp",
         "utility": "cpp",
         "map": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp"
     }
 }
