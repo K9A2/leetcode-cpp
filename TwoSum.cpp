@@ -4,6 +4,9 @@
 
 using namespace std;
 
+/**
+ * Solution for problem "1. Two Sum"
+ */
 class Solution {
  public:
   vector<int> twoSum_brute_force(vector<int> &nums, int target) {
