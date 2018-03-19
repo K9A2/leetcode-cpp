@@ -15,5 +15,6 @@
         "istream": "cpp",
         "streambuf": "cpp",
         "tuple": "cpp"
-    }
+    },
+    "editor.tabSize": 2
 }
